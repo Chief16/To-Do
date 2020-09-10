@@ -1,0 +1,1 @@
+web: guincorn crm1.wsgi --log-file -
