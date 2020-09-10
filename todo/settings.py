@@ -25,7 +25,7 @@ SECRET_KEY = 'y_&@t^!hw85uzlxfg3!v3engs129cvl4lu)0%b^za3ofg18or4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://akash-to-do.herokuapp.com/','127.0.0.1']
 
 
 # Application definition
